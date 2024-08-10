@@ -7,6 +7,8 @@ This is a simple todo list application built with React and Material-UI. The app
 ## Features
 
 - **Add New Task**: Allows users to add a new task with a name and description.
+     - **Task Name**: Mandate Field.
+     - **Description Name**: Optional Field.
 - **Edit Task**: Users can edit existing tasks.
 - **Delete Task**: Users can delete tasks.
 - **Mark Task as Complete**: Users can mark tasks as completed or uncompleted.
