@@ -43,8 +43,8 @@ This is a simple todo list application built with React and Material-UI. The app
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/task-management-app.git
-   cd task-management-app
+   git clone https://github.com/PoonamChauhan229/Interview_Task_To_do_List.git
+   cd Interview_Task_To_do_List
    ```
 
 2. **Install Dependencies**:
