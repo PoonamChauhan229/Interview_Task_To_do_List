@@ -50,19 +50,18 @@ This is a simple todo list application built with React and Material-UI. The app
 2. **Install Dependencies**:
    ```bash
    npm install
+   npm install @mui/material @emotion/react @emotion/styled
+   npm install @mui/icons-material
    ```
 
 3. **Start the Development Server**:
    ```bash
    npm start
    ```
-   This will start the development server on `http://localhost:3000`.
+   This will start the development server on `http://localhost:5173`.
+   This is hosted at netlify on `https://todomui229.netlify.app/`
 
-4. **Build for Production**:
-   ```bash
-   npm run build
-   ```
-   This will create a production build of the application in the `build/` directory.
+
 
 ### Folder Structure
 
