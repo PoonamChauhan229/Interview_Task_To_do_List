@@ -56,7 +56,7 @@ This is a simple todo list application built with React and Material-UI. The app
 
 3. **Start the Development Server**:
    ```bash
-   npm start
+   npm run dev
    ```
    This will start the development server on `http://localhost:5173`.
    This is hosted at netlify on `https://todomui229.netlify.app/`
